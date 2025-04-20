@@ -1,0 +1,8 @@
+Training MSE: 2100966129.53
+Testing MSE: 3386684194.59
+Training R2: 0.78
+Testing R2: 0.76
+Model Coefficients: {'size_sqft': 60515.02667100022, 'bedrooms': 22456.552168803515, 'age': -43226.722671199735}
+Intercept: 244553.58
+New house features: Size = 1295.98 sqft, Bedrooms = 4, Age = 10 years
+Predicted price for new house: ₹20000000.00
